@@ -22,7 +22,7 @@ body{
   transition: text-decoration-color 300ms;
   background-image:
   linear-gradient(to bottom, rgba(170, 129, 42, 0.7),
-   rgba(245, 154, 206, 0.5)), url('https://drive.google.com/thumbnail?id=1ssBc2ai0rmNQTfCeOCBPXcgLc6DwtoM_');
+   rgba(245, 154, 206, 0.5)), url("images/Image10.jpg");
 }
 
 .page2{
@@ -38,7 +38,7 @@ body{
   margin-bottom: 20px;
   background-image:
   linear-gradient(to bottom, rgba(170, 129, 42, 0.527),
-   rgba(245, 154, 206, 0.8)), url('https://drive.google.com/thumbnail?id=1ssBc2ai0rmNQTfCeOCBPXcgLc6DwtoM_');
+   rgba(245, 154, 206, 0.8)), url("images/Image10.jpg");
 }
 
 .title{
@@ -147,7 +147,7 @@ img{
 }
 
 a {
-  background: 
+  background:
     linear-gradient(to right, rgb(126, 106, 18, 0), rgb(211, 120, 1,0)),
     linear-gradient(to right, rgb(255, 0, 191), rgb(255, 153, 0), #715240);
   background-size: 100% 0.1em, 0 0.1em;
@@ -186,7 +186,7 @@ footer{
 }
 
 button{
-  background-color: #392F5A;
+  background-color: rgba(134, 102, 41, 0.87);
   border: none;
   color: white;
   padding: 15px 32px;
